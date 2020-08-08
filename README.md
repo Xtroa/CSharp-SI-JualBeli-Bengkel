@@ -1,6 +1,10 @@
 # CSharp-SI-JualBeli-Bengkel
 Sistem Informasi Data Barang Dan Penjualan Pembeli Bengkel 
 
+Bahasa Pemrograman :
+1. C#
+2. MySql
+
 Fitur :
 - Kasir (Cetak nota dan simpan nota kedalam database).
 - Pembagian Hak Akses (Pemilik Bengkel, Kasir, Pegawai Pembelian Stok).
