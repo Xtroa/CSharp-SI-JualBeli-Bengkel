@@ -12,6 +12,7 @@ Fitur :
 - Monitor pengeluaran dan pemasukan barang setiap bulan
 
 Detail Program : 
+
 A. Master Data (CRUD) 
 1. Pelanggan
 2. Kategori
