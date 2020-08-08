@@ -6,13 +6,13 @@ Bahasa Pemrograman :
 2. MySql
 
 Fitur :
-- Kasir (Cetak nota dan simpan nota kedalam database).
-- Pembagian Hak Akses (Pemilik Bengkel, Kasir, Pegawai Pembelian Stok).
-- Laporan setiap data bengkel.
-- Monitor pengeluaran dan pemasukan barang setiap bulan.
+- Kasir (Cetak nota dan simpan nota kedalam database)
+- Pembagian Hak Akses (Pemilik Bengkel, Kasir, Pegawai Pembelian Stok)
+- Laporan setiap data bengkel
+- Monitor pengeluaran dan pemasukan barang setiap bulan
 
-Detail Program :
-A. Master Data (CRUD):
+Detail Program : 
+A. Master Data (CRUD) 
 1. Pelanggan
 2. Kategori
 3. Supplier
@@ -20,7 +20,7 @@ A. Master Data (CRUD):
 5. Barang
 6. Jabatan
 
-B. Transaksi :
+B. Transaksi
 1. Penjualan (Penjualan barang yang dilakukan oleh pelanggan)
 2. Pembelian (Pembelian stok barang yang dilakukan oleh bengkel)
 
