@@ -1,0 +1,8 @@
+    1 | Pelanggan Umum |     - |     -
+    2 | Ana Maria TR | Darmo 333 | (085) 83423234
+    3 | Anton Mario | Raya Diponegoro 123 | (031) 75638234
+    4 | PT Around the World | Raya Kendangsari 12A | (031) 34243434
+    5 | PT Bahagia Selalu | Bukit Darmo Boulevard 124A | (031) 232344323
+    6 | UD Maju Sejati | Raya Lontar 34 | (031) 23324422
+    7 | Maria | Tenggilis | 1234233
+    8 | Lina S | Ubaya | 1212123323

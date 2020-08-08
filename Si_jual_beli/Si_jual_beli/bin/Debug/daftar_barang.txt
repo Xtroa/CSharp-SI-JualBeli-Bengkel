@@ -1,0 +1,10 @@
+|B0001 | 8997035563414 | Pocari Sweat | 12000 |  17 |    01|
+|B0002 | 8997035563424 | Orange Squash |  5000 |  43 |    01|
+|B0007 | 8997035564524 | My Cola | 10000 |  69 |    01|
+|B0008 | 8997035464124 | Avocado Black Coffee | 15000 |   5 |    01|
+|B0004 | 5411026164138 | Bumbu Ayam Kalasan Royku | 15000 |  73 |    02|
+|B0005 | 5421031164128 | Kaldu Ayam Magic | 30000 |  11 |    02|
+|B0003 | 0421032464101 | T-Shirt Pelangi Lengan Pendek | 80000 |  10 |    03|
+|B0009 | 0421035564301 | Baju Sekolah SD | 120000 |  10 |    03|
+|B0010 | 0431035715201 | Kaos Bola | 130000 |   3 |    03|
+|B0006 | 5421031164368 | Keju Cheddar Healthy Choice | 67000 |  39 |    04|

@@ -1,0 +1,72 @@
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a24.INFOR\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a24.INFOR\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a24.INFOR\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\MySql.Data.dll
+C:\Users\a24.INFOR\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\a24.INFOR\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a24.INFOR\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\lenovo\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\lenovo\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\lenovo\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Users\lenovo\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a12\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a12\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a12\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\MySql.Data.dll
+C:\Users\a12\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a12\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\lenovo\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a27\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a27\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a27\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\a27\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a27\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a20\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a20\Desktop\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a20\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\a20\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a20\Desktop\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\lenovo\Documents\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\lenovo\Documents\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\lenovo\Documents\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Users\lenovo\Documents\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\user\Documents\pbd\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\user\Documents\pbd\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\user\Documents\pbd\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Users\user\Documents\pbd\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\user\Documents\pbd\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojAssemblyReference.cache
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csproj.CoreCompileInputs.cache
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csproj.CopyComplete
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb

@@ -1,0 +1,462 @@
+C:\Users\a19\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+E:\Angger'\[MATKUL SEMESTER 5]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\bin\Debug\MySql.Data.dll
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+E:\Angger'\[MATKUL SEMESTER 5]\[PBD]\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a27\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+C:\Users\a20\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarJabatan.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusJabatan.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahJabatan.resources
+C:\Users\lenovo\Documents\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahJabatan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarJabatan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusJabatan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusPegawai.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahJabatan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahPegawai.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahJabatan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahPegawai.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusPelanggan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahPelanggan.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLogin.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaJual.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarSupplier.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahSupplier.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusSupplier.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahSupplier.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaBeli.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaBeli.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaJual.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaJual.resources
+C:\Users\lenovo\Desktop\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaBeli.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarJabatan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarSupplier.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusJabatan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaBeli.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaJual.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusPegawai.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusSupplier.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLogin.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahJabatan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaBeli.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaJual.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahPegawai.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahSupplier.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahJabatan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaBeli.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaJual.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahPegawai.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahSupplier.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusPelanggan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahPelanggan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPenjualan.resources
+C:\Users\user\Documents\pbd\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPembelian.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\bin\Debug\MySql.Data.dll
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojAssemblyReference.cache
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarJabatan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarSupplier.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusJabatan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaBeli.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaJual.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusPegawai.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusSupplier.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPembelian.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPenjualan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLogin.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeliDetil.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJualDetil.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahJabatan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaBeli.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaJual.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahPegawai.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahSupplier.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahJabatan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaBeli.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaJual.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahPegawai.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahSupplier.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusPelanggan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahPelanggan.resources
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.cache
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.CoreCompileInputs.cache
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.CopyComplete
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+C:\Hudson\DennyDesktop\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\bin\Debug\MySql.Data.dll
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarJabatan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarSupplier.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusJabatan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaJual.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusPegawai.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusSupplier.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPembelian.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPenjualan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLogin.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeliDetil.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJualDetil.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahJabatan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaJual.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahPegawai.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahSupplier.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahJabatan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaJual.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahPegawai.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahSupplier.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusPelanggan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahPelanggan.resources
+E:\Kuliah\Kerja Praktek\KPKirim\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\bin\Debug\MySql.Data.dll
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarJabatan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarSupplier.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusJabatan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaJual.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusPegawai.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusSupplier.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPembelian.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLogin.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeliDetil.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJualDetil.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahJabatan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaJual.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahPegawai.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahSupplier.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahJabatan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaJual.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahPegawai.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahSupplier.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusPelanggan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahPelanggan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPenjualan.resources
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.manifest
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.application
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe.manifest
+E:\Kuliah\Kerja Praktek\KP\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.application
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.manifest
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.application
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarJabatan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarSupplier.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusJabatan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaBeli.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaJual.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusPegawai.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusSupplier.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPembelian.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPenjualan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLogin.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeliDetil.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJualDetil.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahJabatan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaBeli.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaJual.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahPegawai.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahSupplier.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahJabatan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaBeli.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaJual.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahPegawai.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahSupplier.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusPelanggan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahPelanggan.resources
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe.manifest
+C:\Users\user\Desktop\CD_KP\Program Kerja Praktek\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.application
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.config
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.pdb
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe.manifest
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.application
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.exe
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\Si_jual_beli.pdb
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.dll
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csprojResolveAssemblyReference.cache
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarJabatan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPegawai.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarPelanggan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormDaftarSupplier.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusJabatan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusNotaJual.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusPegawai.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormHapusSupplier.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPembelian.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLaporanPenjualan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormLogin.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaBeliDetil.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJual.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormNotaJualDetil.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahJabatan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahNotaJual.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahPegawai.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormTambahSupplier.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahJabatan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaBeli.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahNotaJual.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahPegawai.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUbahSupplier.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.FormUtama.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.HapusPelanggan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.Properties.Resources.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.TambahPelanggan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahKategoriBarang.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.UbahPelanggan.resources
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Sis_jual_beli.csproj.GenerateResource.Cache
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.exe.manifest
+E:\Kuliah\Kerja Praktek\KP\Source Code Program\Si_jual_beli\Si_jual_beli\obj\Debug\Si_jual_beli.application
